@@ -1,0 +1,18 @@
+{
+  "name": "By DioSShop",
+  "version": "8.4.1",
+  "description": "",
+  "main": "nodejs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "DioS",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "wio.db": "^4.0.21"
+  }
+}

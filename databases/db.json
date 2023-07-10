@@ -1,0 +1,26 @@
+{
+    "token": "MTEyNzk2MDYzOTIzNTcwMjkxNQ.GDI0PC.t53w2twSzNn-WgrgjuydnWtboOqZMnf94TCiMs",
+    "channelid": "1128028861167325186",
+    "ownerid": "1111741364095422534",
+    "owosystemstatus": "1",
+    "captchasecurity": "1",
+    "systems": {
+        "whunt": "1",
+        "wbattle": "1",
+        "whug": "1",
+        "wkiss": "1",
+        "wcf": "1"
+    },
+    "securitytime": "2",
+    "owomessage": "1123313686359060572",
+    "owomessagestatus": "0",
+    "owomessagetype": "0",
+    "owosecurity": "0",
+    "autosell": "1",
+    "autogive": "1",
+    "hunt": 1367,
+    "battle": 925,
+    "kiss": 819,
+    "hug": 648,
+    "cf": 536
+}
